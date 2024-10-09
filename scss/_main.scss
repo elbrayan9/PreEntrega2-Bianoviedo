@@ -1,7 +1,7 @@
 .cabezera2{
     background-color: #000000b5;
     .titulo1{
-        color:$color-black;
+        color:$color-white;
         font-family: $fuente;
         font-size: map-get($sizes-fonts, rem4 );
         font-weight: $font-weight;
@@ -14,7 +14,7 @@
         text-align: $text-align ;
         text-shadow: 10px 10px 10px rgb(0, 0, 0)}
     .textogris{
-        color: $color-black;
+        color: $color-white;
         background-color: darkgray;
         font-family:$fuente;
         font-weight: bold;
